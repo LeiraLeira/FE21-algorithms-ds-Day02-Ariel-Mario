@@ -1,0 +1,59 @@
+if the input is 280
+
+output should be:
+2 notes of 100
+1 note of 50
+1 note of 20
+1 note of 10
+
+
+b)
+
+input = 280
+
+if 50s are not available
+
+denomination should be
+
+2 x 100
+4 x 20
+
+or 
+
+2 x 100
+8x 10
+
+if there are also no 10s available
+
+no problem
+still
+
+2x 100
+8x10
+
+if there are no 20s and 10s available
+
+message to the bank
+
+
+
+input = 80
+
+1 x 50
+1 x 20
+1 x 10
+
+if there no 20s
+
+1 x 50
+3 x 10
+
+if there are no 20s and 10s 
+
+message to the bank
+
+
+
+
+
+
