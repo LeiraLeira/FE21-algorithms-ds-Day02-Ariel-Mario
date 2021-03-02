@@ -1,0 +1,19 @@
+While
+Number < 5 
+output: positive
+
+else: negative
+
+
+
+if you use between 5 GB and 10 GB
+
+take contract Number 1
+
+if you use more than 10GB
+
+take contract Number 2
+
+else 
+
+contract Number 3
